@@ -4,9 +4,9 @@
 
 Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in crafting beautiful minimal products and exploring new worlds.
 
-🔭 I’m currently working on different e-commerce projects.
+🔭 I'm currently Personal Development.
 
-🌱 I’m currently learning Javascript, Express and Jquery.
+🌱 I'm currently learning Javascript,  and Jquery.
 
 👯 I’m looking to collaborate on JS projects.
 
