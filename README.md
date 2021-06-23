@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/mihai6398/mihai6398/main/assets/Header-img.jpg)](#)
+[![Header](https://raw.githubusercontent.com/mihai6398/mihai6398/main/assets/header-image.jpg)](#)
 
 ## I'm a beginner FrontEnd developer
 
