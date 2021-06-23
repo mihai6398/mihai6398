@@ -1,8 +1,6 @@
-# I'm Mihai Mindru 👋
+[![Header](https://raw.githubusercontent.com/mihai6398/mihai6398/main/assets/Header-img.jpg)](#)
 
-### I'm a front-end web developer.
-
-Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in crafting beautiful minimal products and exploring new worlds.
+## I'm a beginner FrontEnd developer
 
 🔭 I'm currently Personal Development.
 
