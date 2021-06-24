@@ -4,8 +4,6 @@
 
 🔭 I'm currently Personal Development.
 
-🌱 I'm currently learning Javascript,  and Jquery.
-
 👯 I’m looking to collaborate on JS projects.
 
 💬 Ask me about web.
