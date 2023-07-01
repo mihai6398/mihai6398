@@ -1,7 +1,7 @@
 [![Header](https://github.com/mihai6398/mihai6398/blob/main/assets/header-gif.gif)](#)
 
 ## I'm a Game Developer
-🔭 I'm currently work in Midnight.
+🔭 I'm currently work in Elermond.
 
 👯 I’m looking to collaborate on game projects.
 
