@@ -1,4 +1,5 @@
 [![Header](https://github.com/mihai6398/mihai6398/blob/main/assets/header-gif.gif)](#)
+![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
 
 ## I'm a Game Developer
 🔭 I'm currently work in Elermond.
